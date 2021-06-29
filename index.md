@@ -1,6 +1,7 @@
 ---
-title: New Entry
-style: post
+title: "Grid"
+layout: post
+author: "AllanMoDC"
 ---
 
 # New title
